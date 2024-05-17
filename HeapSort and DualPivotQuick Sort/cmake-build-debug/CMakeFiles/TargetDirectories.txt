@@ -1,0 +1,3 @@
+/Users/shopangali05/CLionProjects/HeapSort and DualPivotQuick Sort/cmake-build-debug/CMakeFiles/HeapSort_and_DualPivotQuick_Sort.dir
+/Users/shopangali05/CLionProjects/HeapSort and DualPivotQuick Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shopangali05/CLionProjects/HeapSort and DualPivotQuick Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
