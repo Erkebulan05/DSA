@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bucket_Insertion_and_Shell_Sort",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bucket_Insertion_and_Shell_Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bucket_Insertion_and_Shell_Sort-Debug-6580e0ce270fd09f4657.json",
+					"name" : "Bucket_Insertion_and_Shell_Sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shopangali05/CLionProjects/Bucket,Insertion and Shell Sort/cmake-build-debug",
+		"source" : "/Users/shopangali05/CLionProjects/Bucket,Insertion and Shell Sort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
