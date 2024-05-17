@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "double_selection_sort_selection_sort_and_bubble_sort",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "double_selection_sort_selection_sort_and_bubble_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-double_selection_sort_selection_sort_and_bubble_sort-Debug-9e43d6ce10b3f4a48c4e.json",
+					"name" : "double_selection_sort_selection_sort_and_bubble_sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shopangali05/CLionProjects/double_selection_sort,selection_sort and bubble_sort/cmake-build-debug",
+		"source" : "/Users/shopangali05/CLionProjects/double_selection_sort,selection_sort and bubble_sort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

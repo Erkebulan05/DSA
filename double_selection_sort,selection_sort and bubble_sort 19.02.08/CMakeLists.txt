@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(double_selection_sort_selection_sort_and_bubble_sort)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(double_selection_sort_selection_sort_and_bubble_sort main.cpp)
