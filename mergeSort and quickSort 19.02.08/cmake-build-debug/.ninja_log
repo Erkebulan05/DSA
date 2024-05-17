@@ -1,0 +1,15 @@
+# ninja log v5
+1	429	1712145629194287374	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+431	470	1712145629236030648	mergeSort_and_quickSort	47b9d6e3960de4b8
+1	330	1712145771297760986	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+330	370	1712145771338124697	mergeSort_and_quickSort	47b9d6e3960de4b8
+2	386	1712145798214247285	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+386	426	1712145798256315720	mergeSort_and_quickSort	47b9d6e3960de4b8
+2	378	1712145805287706627	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+378	418	1712145805328722704	mergeSort_and_quickSort	47b9d6e3960de4b8
+1	378	1712145865472095704	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+379	418	1712145865512299435	mergeSort_and_quickSort	47b9d6e3960de4b8
+2	463	1712145943017124960	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+463	574	1712145943130002919	mergeSort_and_quickSort	47b9d6e3960de4b8
+2	336	1712145950010744028	CMakeFiles/mergeSort_and_quickSort.dir/main.cpp.o	3dd292d625ebc4f7
+336	373	1712145950049627797	mergeSort_and_quickSort	47b9d6e3960de4b8

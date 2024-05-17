@@ -1,0 +1,3 @@
+/Users/shopangali05/CLionProjects/mergeSort and quickSort/cmake-build-debug/CMakeFiles/mergeSort_and_quickSort.dir
+/Users/shopangali05/CLionProjects/mergeSort and quickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shopangali05/CLionProjects/mergeSort and quickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
